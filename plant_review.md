@@ -1,6 +1,6 @@
-# Garden Plant Photo Review
+# Teininmäki 4-6 piha
 
-Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
+Pihasuunnitelman runko
 
 ## Ilmakuva (Google Maps)
 
