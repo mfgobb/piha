@@ -2,6 +2,12 @@
 
 Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
+## Ilmakuva (Google Maps)
+
+![Ilmakuva](air_photo.png)
+
+---
+
 ## Kuvahakemisto
 
 - [1. Parkkipaikka 1](#kuva-1)
@@ -58,13 +64,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## Ilmakuva (Google Maps)
-
-![Ilmakuva](air_photo.png)
-
----
-
-## 1. Parkkipaikka 1 {: #kuva-1 }
+<a id="kuva-1"></a>
+## 1. Parkkipaikka 1
 
 ![IMG_5179](annotated_web/IMG_5179_annotated.jpg)
 
@@ -74,7 +75,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 2. Parkkipaikka 2 {: #kuva-2 }
+<a id="kuva-2"></a>
+## 2. Parkkipaikka 2
 
 ![IMG_5180](annotated_web/IMG_5180_annotated.jpg)
 
@@ -84,7 +86,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 3. Ylätalo itäpääty {: #kuva-3 }
+<a id="kuva-3"></a>
+## 3. Ylätalo itäpääty
 
 ![IMG_5181](annotated_web/IMG_5181_annotated.jpg)
 
@@ -94,7 +97,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 4. Ylätalo, koiliskulma {: #kuva-4 }
+<a id="kuva-4"></a>
+## 4. Ylätalo, koiliskulma
 
 ![IMG_5182](annotated_web/IMG_5182_annotated.jpg)
 
@@ -104,7 +108,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 5. H/J edusta {: #kuva-5 }
+<a id="kuva-5"></a>
+## 5. H/J edusta
 
 ![IMG_5183](annotated_web/IMG_5183_annotated.jpg)
 
@@ -114,7 +119,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 6. K edusta {: #kuva-6 }
+<a id="kuva-6"></a>
+## 6. K edusta
 
 ![IMG_5184](annotated_web/IMG_5184_annotated.jpg)
 
@@ -124,7 +130,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 7. L edusta {: #kuva-7 }
+<a id="kuva-7"></a>
+## 7. L edusta
 
 ![IMG_5185](annotated_web/IMG_5185_annotated.jpg)
 
@@ -134,7 +141,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 8. M edusta {: #kuva-8 }
+<a id="kuva-8"></a>
+## 8. M edusta
 
 ![IMG_5186](annotated_web/IMG_5186_annotated.jpg)
 
@@ -144,7 +152,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 9. M edusta {: #kuva-9 }
+<a id="kuva-9"></a>
+## 9. M edusta
 
 ![IMG_5187](annotated_web/IMG_5187_annotated.jpg)
 
@@ -154,7 +163,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 10. N Edusta {: #kuva-10 }
+<a id="kuva-10"></a>
+## 10. N Edusta
 
 ![IMG_5188](annotated_web/IMG_5188_annotated.jpg)
 
@@ -164,7 +174,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 11. Ylätalo polku 1 {: #kuva-11 }
+<a id="kuva-11"></a>
+## 11. Ylätalo polku 1
 
 ![IMG_5189](annotated_web/IMG_5189_annotated.jpg)
 
@@ -174,7 +185,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 12. Ylätalo polku 2 {: #kuva-12 }
+<a id="kuva-12"></a>
+## 12. Ylätalo polku 2
 
 ![IMG_5190](annotated_web/IMG_5190_annotated.jpg)
 
@@ -184,7 +196,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 13. Ylätalo luoteiskulma {: #kuva-13 }
+<a id="kuva-13"></a>
+## 13. Ylätalo luoteiskulma
 
 ![IMG_5191](annotated_web/IMG_5191_annotated.jpg)
 
@@ -194,7 +207,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 14. Tontin luoteiskulma puu {: #kuva-14 }
+<a id="kuva-14"></a>
+## 14. Tontin luoteiskulma puu
 
 ![IMG_5192](annotated_web/IMG_5192_annotated.jpg)
 
@@ -204,7 +218,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 15. Tontin länsiraja piha-aita 1 {: #kuva-15 }
+<a id="kuva-15"></a>
+## 15. Tontin länsiraja piha-aita 1
 
 ![IMG_5193](annotated_web/IMG_5193_annotated.jpg)
 
@@ -214,7 +229,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 15. Tontin länsiraja piha-aita 2 {: #kuva-16 }
+<a id="kuva-16"></a>
+## 15. Tontin länsiraja piha-aita 2
 
 ![IMG_5194](annotated_web/IMG_5194_annotated.jpg)
 
@@ -224,7 +240,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 17. Asunto N, pihan aita {: #kuva-17 }
+<a id="kuva-17"></a>
+## 17. Asunto N, pihan aita
 
 ![IMG_5195](annotated_web/IMG_5195_annotated.jpg)
 
@@ -234,7 +251,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 18. Asunnot N/M takapihojen edusta {: #kuva-18 }
+<a id="kuva-18"></a>
+## 18. Asunnot N/M takapihojen edusta
 
 ![IMG_5196](annotated_web/IMG_5196_annotated.jpg)
 
@@ -244,7 +262,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 19. Polun kaarre {: #kuva-19 }
+<a id="kuva-19"></a>
+## 19. Polun kaarre
 
 ![IMG_5197](annotated_web/IMG_5197_annotated.jpg)
 
@@ -254,7 +273,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 20. Leikkipaikka {: #kuva-20 }
+<a id="kuva-20"></a>
+## 20. Leikkipaikka
 
 ![IMG_5198](annotated_web/IMG_5198_annotated.jpg)
 
@@ -264,7 +284,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 21. Asunto G etupiha {: #kuva-21 }
+<a id="kuva-21"></a>
+## 21. Asunto G etupiha
 
 ![IMG_5199](annotated_web/IMG_5199_annotated.jpg)
 
@@ -274,7 +295,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 22. Asunto F etupiha 1 {: #kuva-22 }
+<a id="kuva-22"></a>
+## 22. Asunto F etupiha 1
 
 ![IMG_5200](annotated_web/IMG_5200_annotated.jpg)
 
@@ -284,7 +306,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 23. Asunto F etupiha 2 {: #kuva-23 }
+<a id="kuva-23"></a>
+## 23. Asunto F etupiha 2
 
 ![IMG_5201](annotated_web/IMG_5201_annotated.jpg)
 
@@ -294,7 +317,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 24. Keskipihan rinne {: #kuva-24 }
+<a id="kuva-24"></a>
+## 24. Keskipihan rinne
 
 ![IMG_5202](annotated_web/IMG_5202_annotated.jpg)
 
@@ -304,7 +328,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 24. Keskipihan rinne, mänty 1 {: #kuva-25 }
+<a id="kuva-25"></a>
+## 24. Keskipihan rinne, mänty 1
 
 ![IMG_5203](annotated_web/IMG_5203_annotated.jpg)
 
@@ -314,7 +339,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 25. Asunto E edusta {: #kuva-26 }
+<a id="kuva-26"></a>
+## 25. Asunto E edusta
 
 ![IMG_5204](annotated_web/IMG_5204_annotated.jpg)
 
@@ -324,7 +350,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 26. Asunto D edusta {: #kuva-27 }
+<a id="kuva-27"></a>
+## 26. Asunto D edusta
 
 ![IMG_5205](annotated_web/IMG_5205_annotated.jpg)
 
@@ -334,7 +361,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 27. Keskipiha rinne, mänty 2 {: #kuva-28 }
+<a id="kuva-28"></a>
+## 27. Keskipiha rinne, mänty 2
 
 ![IMG_5206](annotated_web/IMG_5206_annotated.jpg)
 
@@ -344,7 +372,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 28. Asunto C, edusta {: #kuva-29 }
+<a id="kuva-29"></a>
+## 28. Asunto C, edusta
 
 ![IMG_5207](annotated_web/IMG_5207_annotated.jpg)
 
@@ -354,7 +383,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 29. Asunto B/C edusta {: #kuva-30 }
+<a id="kuva-30"></a>
+## 29. Asunto B/C edusta
 
 ![IMG_5208](annotated_web/IMG_5208_annotated.jpg)
 
@@ -364,7 +394,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 30. Asunto A edusta 1 {: #kuva-31 }
+<a id="kuva-31"></a>
+## 30. Asunto A edusta 1
 
 ![IMG_5209](annotated_web/IMG_5209_annotated.jpg)
 
@@ -374,7 +405,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 31. Roskisten vierus {: #kuva-32 }
+<a id="kuva-32"></a>
+## 31. Roskisten vierus
 
 ![IMG_5210](annotated_web/IMG_5210_annotated.jpg)
 
@@ -384,7 +416,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 32. Asunto A edusta 2 {: #kuva-33 }
+<a id="kuva-33"></a>
+## 32. Asunto A edusta 2
 
 ![IMG_5211](annotated_web/IMG_5211_annotated.jpg)
 
@@ -394,7 +427,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 33. Asunto A edusta 3 {: #kuva-34 }
+<a id="kuva-34"></a>
+## 33. Asunto A edusta 3
 
 ![IMG_5212](annotated_web/IMG_5212_annotated.jpg)
 
@@ -404,7 +438,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 34. Tuija, I/H takapiha {: #kuva-35 }
+<a id="kuva-35"></a>
+## 34. Tuija, I/H takapiha
 
 ![IMG_5213](annotated_web/IMG_5213_annotated.jpg)
 
@@ -414,7 +449,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 35. Keskipiha, japanintatar {: #kuva-36 }
+<a id="kuva-36"></a>
+## 35. Keskipiha, japanintatar
 
 ![IMG_5214](annotated_web/IMG_5214_annotated.jpg)
 
@@ -424,7 +460,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 36. Keskipiha, japanintatar 2 {: #kuva-37 }
+<a id="kuva-37"></a>
+## 36. Keskipiha, japanintatar 2
 
 ![IMG_5215](annotated_web/IMG_5215_annotated.jpg)
 
@@ -434,7 +471,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 37. Asunnon K takapihan aita 1 {: #kuva-38 }
+<a id="kuva-38"></a>
+## 37. Asunnon K takapihan aita 1
 
 ![IMG_5216](annotated_web/IMG_5216_annotated.jpg)
 
@@ -444,7 +482,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 38. Asunnon K takapihan aita 2 {: #kuva-39 }
+<a id="kuva-39"></a>
+## 38. Asunnon K takapihan aita 2
 
 ![IMG_5217](annotated_web/IMG_5217_annotated.jpg)
 
@@ -454,7 +493,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 39. Keskipiha, tuija {: #kuva-40 }
+<a id="kuva-40"></a>
+## 39. Keskipiha, tuija
 
 ![IMG_5218](annotated_web/IMG_5218_annotated.jpg)
 
@@ -464,7 +504,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 40. Keskipiha, japanintatar 3 {: #kuva-41 }
+<a id="kuva-41"></a>
+## 40. Keskipiha, japanintatar 3
 
 ![IMG_5219](annotated_web/IMG_5219_annotated.jpg)
 
@@ -474,7 +515,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 41. Asunto G, luoteiskulma {: #kuva-42 }
+<a id="kuva-42"></a>
+## 41. Asunto G, luoteiskulma
 
 ![IMG_5220](annotated_web/IMG_5220_annotated.jpg)
 
@@ -484,7 +526,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 42. Alatalo, länsipääty 1 {: #kuva-43 }
+<a id="kuva-43"></a>
+## 42. Alatalo, länsipääty 1
 
 ![IMG_5221](annotated_web/IMG_5221_annotated.jpg)
 
@@ -494,7 +537,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 43. Alatalo, länsipääty 2 {: #kuva-44 }
+<a id="kuva-44"></a>
+## 43. Alatalo, länsipääty 2
 
 ![IMG_5222](annotated_web/IMG_5222_annotated.jpg)
 
@@ -504,7 +548,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 44. Tontin lounaisnurkka {: #kuva-45 }
+<a id="kuva-45"></a>
+## 44. Tontin lounaisnurkka
 
 ![IMG_5223](annotated_web/IMG_5223_annotated.jpg)
 
@@ -514,7 +559,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 45. Tontin lounaisnurkka 2 {: #kuva-46 }
+<a id="kuva-46"></a>
+## 45. Tontin lounaisnurkka 2
 
 ![IMG_5224](annotated_web/IMG_5224_annotated.jpg)
 
@@ -524,7 +570,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 46. Tontin eteläreuna 1 {: #kuva-47 }
+<a id="kuva-47"></a>
+## 46. Tontin eteläreuna 1
 
 ![IMG_5225](annotated_web/IMG_5225_annotated.jpg)
 
@@ -534,7 +581,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 47. Tontin eteläreuna 2 {: #kuva-48 }
+<a id="kuva-48"></a>
+## 47. Tontin eteläreuna 2
 
 ![IMG_5226](annotated_web/IMG_5226_annotated.jpg)
 
@@ -544,7 +592,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 48. Tontin eteläreuna 3 {: #kuva-49 }
+<a id="kuva-49"></a>
+## 48. Tontin eteläreuna 3
 
 ![IMG_5227](annotated_web/IMG_5227_annotated.jpg)
 
@@ -554,7 +603,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 49. Asunto E takapihan reuna {: #kuva-50 }
+<a id="kuva-50"></a>
+## 49. Asunto E takapihan reuna
 
 ![IMG_5228](annotated_web/IMG_5228_annotated.jpg)
 
@@ -564,7 +614,8 @@ Kuvien tarkistus – lisää nimi ja kommentti jokaisen kuvan kohdalle.
 
 ---
 
-## 50. Tontin eteläreuna 4 {: #kuva-51 }
+<a id="kuva-51"></a>
+## 50. Tontin eteläreuna 4
 
 ![IMG_5229](annotated_web/IMG_5229_annotated.jpg)
 
